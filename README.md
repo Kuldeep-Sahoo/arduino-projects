@@ -4,7 +4,7 @@ Welcome to my project repository! This repository contains various projects and 
 
 ## Table of Contents
 
-#################################### DAY_1 AND DAY_2 ARE THEORY CLASS #################################################
+#################################### DAY_1 AND DAY_2 ARE THEORY CLASSES #################################################
 
 #################### DAY 3 ######################
 
