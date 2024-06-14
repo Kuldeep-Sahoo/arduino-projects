@@ -43,3 +43,13 @@ This project interfaces a DHT sensor with an Arduino to read temperature and hum
 ## Celsius to Fahrenheit Conversion with DHT
 This project extends the temperature and humidity sensor project by converting the temperature from Celsius to Fahrenheit.
 
+################### DAY 6 #######################
+
+## 7_LED
+This project demonstrates how to control seven LEDs in various patterns using an Arduino. The LEDs can be blinked in sequences, used to display numbers or characters, or controlled to create dynamic light effects.
+
+ ## ADD_DIFFERENT_RANGES_FOR_SOIL_MOISTURE_SENSOR
+This project involves interfacing a soil moisture sensor with an Arduino and setting up different ranges to categorize the soil moisture level (e.g., dry, moist, wet). The Arduino will read the sensor data and output corresponding signals or messages based on the moisture level.
+
+## Soil Moisture Test
+This project involves interfacing a soil moisture sensor with an Arduino to measure the moisture level in the soil. The Arduino will read the sensor data and display the moisture level, which can be used to determine whether the soil is dry, moist, or wet. This is useful for applications like automated irrigation systems and plant care monitoring.
