@@ -53,3 +53,10 @@ This project involves interfacing a soil moisture sensor with an Arduino and set
 
 ## Soil Moisture Test
 This project involves interfacing a soil moisture sensor with an Arduino to measure the moisture level in the soil. The Arduino will read the sensor data and display the moisture level, which can be used to determine whether the soil is dry, moist, or wet. This is useful for applications like automated irrigation systems and plant care monitoring.
+Table of Contents
+############################ Day 7 ############################
+Stepper Motor with IR Sensor
+This project involves interfacing a stepper motor with an Arduino and controlling it using an IR sensor. The motor will move based on the detection of objects by the IR sensor, allowing for automated or responsive movement applications.
+
+Stepper Motor
+This project demonstrates how to control a stepper motor with an Arduino. It includes basic stepper motor operations such as rotating in different directions and controlling the speed of rotation.
