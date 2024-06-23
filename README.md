@@ -61,3 +61,22 @@ This project involves interfacing a stepper motor with an Arduino and controllin
 
 ## Stepper Motor
 This project demonstrates how to control a stepper motor with an Arduino. It includes basic stepper motor operations such as rotating in different directions and controlling the speed of rotation.
+
+############################ Day 8 ############################
+
+## Bluetooth_DiscoverConnect
+This project demonstrates how to use an Arduino with Bluetooth capabilities to discover and connect to nearby Bluetooth devices, including scanning for available devices, displaying the list of discovered devices, and connecting to a selected device.
+
+## WiFiScan
+This project shows how to use an Arduino with WiFi capabilities to scan for available WiFi networks, displaying the list of discovered networks along with their signal strength (RSSI).
+
+############################ Day 9 ############################
+
+## mobile_to_red_green_blue_led_via_BluetoothSerial_new
+This project involves using an Arduino to control RGB LEDs via a mobile device using Bluetooth serial communication, including connecting to a mobile device, sending commands to change the LED colors, and controlling brightness and color through the mobile app.
+
+## mobile_to_red_green_blue_led_via_BluetoothSerial
+Similar to the previous project, this project also focuses on controlling RGB LEDs via Bluetooth serial communication with a mobile device, involving establishing a Bluetooth connection and sending color change commands from the mobile.
+
+## esp32_bluuetooth_to_mobile
+This project demonstrates how to use an ESP32 to communicate with a mobile device via Bluetooth, including establishing a Bluetooth connection and exchanging data between the ESP32 and the mobile device.
