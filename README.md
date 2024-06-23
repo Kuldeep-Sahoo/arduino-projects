@@ -2,9 +2,9 @@
 
 Welcome to my project repository! This repository contains various projects and experiments related to electronics and sensor integration using Arduino. Below is a brief description of each project included in this repository.
 
-## Table of Contents
+## ## Table of Contents
 
-#################################### DAY_1 AND DAY_2 ARE THEORY CLASSES #################################################
+DAY_1 AND DAY_2 ARE THEORY CLASSES
 
 #################### DAY 3 ######################
 
